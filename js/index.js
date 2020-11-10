@@ -1,0 +1,1 @@
+document.querySelector('.timestamp').innertext = new Date().toLocaleTimeString;
